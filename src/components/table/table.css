@@ -1,0 +1,21 @@
+.table{
+    width: 100%;
+    border: 1px solid #808080;
+    border-collapse: collapse;
+}
+.table th, .table td{
+    border: 2px solid #808080;
+    padding: 10px 14px;
+}
+.table th{
+    font-size: 16px;
+    color: #000;
+    text-align: left;
+}
+.table-cell-img{
+    text-align: center;
+}
+.info-msg{
+    text-align: center;
+    width: 100%;
+}
