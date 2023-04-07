@@ -10,6 +10,6 @@ Node version 16 or above
 
 yarn
 
-yarn dev
+yarn start
 
 browse on http://localhost:3000/
